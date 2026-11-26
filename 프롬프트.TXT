@@ -1,1 +1,30 @@
-참조파일\2020청백-e 제안서\Ⅶ.프로젝트지원_A4_25p_v1.0.pptx'의 14page의 장표룰 추가로 반영해줘. 기존 이미지 아이콘 화살표등의 디자인 부분은 살려주고 타이틀, 해더 등의 템플릿만 수정 반영해줘
+c:\Users\Ekm\workspace\clean_e\Clean-e_제안서_261126_v8.pptx의 39page  2.2 점검 지원 및 체계 (안정성 기준 A4)에 &
+ 'c:\Users\Ekm\workspace\clean_e\01. 참조파일\2020청백-e 제안서\Ⅳ.기술 및 기능_A4_67p_1.0.pptx'의 44page의장표룰 추가로 반영해줘. 기존 이미지 아이콘 화살표등의 디자인 부분은 살려주고 타이틀,
+  해더 등의 템플릿만 수정 반영해줘. 청백e_제안요청서.md를 확인해서 현행화해줘
+  
+c:\Users\Ekm\workspace\clean_e\Clean-e_제안서_261126_v9.pptx의 41~42page  3.1 장애대응체계 구성 및 운영 > MPR-12 에 &
+ 'c:\Users\Ekm\workspace\clean_e\01. 참조파일\2020청백-e 제안서\Ⅶ.프로젝트지원_A4_25p_v1.0.pptx'의 21~22page의 장표를 추가로 반영해줘. 기존 이미지 아이콘 화살표등의 디자인 부분은 살려주고 타이틀,
+  해더 등의 템플릿만 수정 반영해줘. 청백e_제안요청서.md를 확인해서 현행화해줘
+
+c:\Users\Ekm\workspace\clean_e\Clean-e_제안서_261126_v10.pptx의 45~46page  3.2 원인 분석 및 긴급 복구 계획 > MPR-13, COR-19 에 &
+ 'c:\Users\Ekm\workspace\clean_e\01. 참조파일\2020청백-e 제안서\Ⅶ.프로젝트지원_A4_25p_v1.0.pptx'의 10,22page의 장표를 추가로 반영해줘. 기존 이미지 아이콘 화살표등의 디자인 부분은 살려주고 타이틀,
+  해더 등의 템플릿만 수정 반영해줘. 청백e_제안요청서.md를 확인해서 현행화해줘  
+  
+c:\Users\Ekm\workspace\clean_e\Clean-e_제안서_261126_v11.pptx의 49page  3.3 장애관리 매뉴얼 및 교육훈련 > COR-11 에 &
+ 'c:\Users\Ekm\workspace\clean_e\01. 참조파일\2020청백-e 제안서\Ⅳ.기술 및 기능_A4_67p_1.0.pptx'의 54page와 'c:\Users\Ekm\workspace\clean_e\01. 참조파일\2020청백-e 제안서\Ⅶ.프로젝트지원_A4_25p_v1.0.pptx'의 4~5page의 장표를 추가로 반영해줘. 기존 이미지 아이콘 화살표등의 디자인 부분은 살려주고 타이틀,
+  해더 등의 템플릿만 수정 반영해줘. 청백e_제안요청서.md를 확인해서 현행화해줘  
+  
+c:\Users\Ekm\workspace\clean_e\Clean-e_제안서_261126_v13.pptx의 6~38page에서 청백e_제안요청서.md를 확인해서 현행화해줘  
+
+c:\Users\Ekm\workspace\clean_e\Clean-e_제안서_261126_v18.pptx의 67~68page  1.2 운영 절차, 데이터 관리 및 비상 대응 > DAR-01 ~ DAR-07에 &
+ 'c:\Users\Ekm\workspace\clean_e\01. 참조파일\2020청백-e 제안서\Ⅴ.성능및품질_A4_19p_v1.0.pptx'의 11~13page의 장표를 추가로 반영해줘. 기존 이미지 아이콘 화살표등의 디자인 부분은 살려주고 타이틀,
+  해더 등의 템플릿만 수정 반영해줘. 청백e_제안요청서.md를 확인해서 현행화해줘 
+  
+c:\Users\Ekm\workspace\clean_e\Clean-e_제안서_261126_v21.pptx의 72~73page  2.1 보안 요구사항 > SER-01 ~ SER-06에 &
+ 'c:\Users\Ekm\workspace\clean_e\01. 참조파일\2020청백-e 제안서\Ⅳ.기술 및 기능_A4_67p_1.0.pptx'의 19~20,34,45~50page의 장표를 추가로 반영해줘. 기존 이미지 아이콘 화살표등의 디자인 부분은 살려주고 타이틀,
+  해더 등의 템플릿만 수정 반영해줘. 청백e_제안요청서.md를 확인해서 현행화해줘   
+  
+c:\Users\Ekm\workspace\clean_e\Clean-e_제안서_261126_v22.pptx의 82~83page  2.2 기술·표준·계약 제약사항 및 대응방안 > MPR-14,COR-02~COR-04,COR-07~COR-10,COR-13~COR-15,COR-18,COR-20~COR-22에 &
+ 'c:\Users\Ekm\workspace\clean_e\01. 참조파일\2020청백-e 제안서\Ⅲ.전략 및 방법론_A4_27p_v1.0.pptx'의 10~17page와 'c:\Users\Ekm\workspace\clean_e\01. 참조파일\2020청백-e 제안서\Ⅳ.기술 및 기능_A4_67p_1.0.pptx'의 63~67page와 &
+ 'c:\Users\Ekm\workspace\clean_e\01. 참조파일\2020청백-e 제안서\Ⅶ.프로젝트지원_A4_25p_v1.0.pptx'의 13page의 장표를 추가로 반영해줘. 기존 이미지 아이콘 화살표등의 디자인 부분은 살려주고 타이틀,
+  해더 등의 템플릿만 수정 반영해줘. 청백e_제안요청서.md를 확인해서 현행화해줘 
